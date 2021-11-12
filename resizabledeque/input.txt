@@ -1,0 +1,166 @@
+new
+  push_front 3
+  print
+  push_front 2
+  print
+  push_front 1
+  print
+  push_front 3
+  print
+  push_front 2
+  print
+  push_front 1
+  print
+  push_front 3
+  print
+  push_front 2
+  print
+  push_front 1
+  print
+  push_front 3
+  print
+  push_front 2
+  print
+  push_front 1
+  print
+  push_front 3
+  print
+  push_front 2
+  print
+  push_front 1
+   push_front 3
+  print
+  push_front 2
+  print
+  push_front 1
+  print
+  push_front 3
+  print
+  push_front 2
+  print
+  push_front 1
+  print
+  push_front 3
+  print
+  push_front 2
+  print
+  push_front 1
+  print
+  push_front 3
+  print
+  push_front 2
+  print
+  push_front 1
+  print
+  push_front 3
+  print
+  push_front 2
+  print
+  push_front 1
+   push_front 3
+  print
+  push_front 2
+  print
+  push_front 1
+  print
+  push_front 3
+  print
+  push_front 2
+  print
+  push_front 1
+  print
+  push_front 3
+  print
+  push_front 2
+  print
+  push_front 1
+  print
+  push_front 3
+  print
+  push_front 2
+  print
+  push_front 1
+  print
+  push_front 3
+  print
+  push_front 2
+  print
+  push_front 1
+   push_front 3
+  print
+  push_front 2
+  print
+  push_front 1
+  print
+  push_front 3
+  print
+  push_front 2
+  print
+  push_front 1
+  print
+  push_front 3
+  print
+  push_front 2
+  print
+  push_front 1
+  print
+  push_front 3
+  print
+  push_front 2
+  print
+  push_front 1
+  print
+  push_front 3
+  print
+  push_front 2
+  print
+  push_front 1
+   push_front 3
+  print
+  push_front 2
+  print
+  push_front 1
+  print
+  push_front 3
+  print
+  push_front 2
+  print
+  push_front 1
+  print
+  push_front 3
+  print
+  push_front 2
+  print
+  push_front 1
+  print
+  push_front 3
+  print
+  push_front 2
+  print
+  push_front 1
+  print
+  push_front 3
+  print
+  push_front 2
+  print
+  push_front 1
+  print
+  size
+  cap
+  push_front 4
+  print
+  size
+  cap
+  push_back 5
+  copy
+  push_front 10
+  print
+  swap
+  swap
+  size
+  cap
+  push_back 6
+  print
+  size
+  cap
+end

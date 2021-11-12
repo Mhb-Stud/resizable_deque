@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\DS\deque\Empty Project\rdq_tester.h(136,19): warning C4101: 'ex': unreferenced local variable
+C:\DS\deque\Empty Project\rdq_tester.h(139,19): warning C4101: 'ex': unreferenced local variable
+C:\DS\deque\Empty Project\rdq_tester.h(155,19): warning C4101: 'ex': unreferenced local variable
+C:\DS\deque\Empty Project\rdq_tester.h(158,19): warning C4101: 'ex': unreferenced local variable
+  resizabledeque.vcxproj -> C:\Users\Mohammad Bayati\source\repos\resizabledeque\Debug\resizabledeque.exe
